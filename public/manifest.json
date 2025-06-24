@@ -1,0 +1,21 @@
+{
+  "name": "CriptoSimuladorApp",
+  "short_name": "CriptoSimulador",
+  "description": "Simulador educativo de inversión en criptomonedas",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#001f2d",
+  "theme_color": "#001f2d",
+  "icons": [
+    {
+      "src": "/logo-wkr.png",  
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/logo-wkr.png",  
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
