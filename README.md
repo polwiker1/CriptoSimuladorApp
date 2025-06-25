@@ -1,12 +1,25 @@
-# React + Vite
+# 💠 CriptoSimuladorApp - by WKR
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Simulador educativo de inversión en criptomonedas en tiempo real. Diseñado para enseñar, analizar y aprender cómo varían las inversiones en monedas como BTC, ETH, BNB, SOL, DOGE y más.
 
-Currently, two official plugins are available:
+![Logo WKR](public/logo-wkr.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🧠 Funcionalidades
 
-## Expanding the ESLint configuration
+- Ingreso de inversiones por cripto y fecha.
+- Cálculo automático de ganancia/pérdida.
+- Precios reales en tiempo real desde CoinGecko.
+- Asesor virtual IA Advisor con tips cada 10 segundos.
+- Links oficiales de cada proyecto cripto.
+- Histórico de precios de BTC (últimos 7 días).
+- Persistencia de datos con `localStorage`.
+- Estilo oscuro personalizado WKR + dorado.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🚀 Instalación local
+
+1. Clonar el repositorio:
+```bash
+git clone https://github.com/polwiker1/CriptoSimuladorApp.git
+cd CriptoSimuladorApp
